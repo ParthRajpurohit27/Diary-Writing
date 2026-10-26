@@ -1,0 +1,3 @@
+Put unlock animation frames here.
+lift/001.png, 002.png ... and open/001.png, 002.png ...
+Then set count and fps in app.js (CFG.frames).
