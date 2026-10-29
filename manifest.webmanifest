@@ -1,1 +1,17 @@
-{"id":"./","name":"Diary","short_name":"Diary","description":"A private, encrypted diary that lives on your device.","start_url":"./","scope":"./","display":"standalone","orientation":"any","background_color":"#ececea","theme_color":"#ececea","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},{"src":"icons/maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
+{
+  "id": "./",
+  "name": "Diary",
+  "short_name": "Diary",
+  "description": "A private, encrypted diary that lives on your device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ececea",
+  "theme_color": "#ececea",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
